@@ -1,4 +1,4 @@
-import{c as a}from"./FloralSVG-Cu7twHdK.js";/**
+import{c as a}from"./FloralSVG-CJyxvf1o.js";/**
  * @license lucide-vue-next v0.469.0 - ISC
  *
  * This source code is licensed under the ISC license.
